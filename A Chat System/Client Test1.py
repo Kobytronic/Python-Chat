@@ -1,7 +1,7 @@
 import socket
 import threading
 
-SERVER = "10.185.74.19"
+SERVER = ""
 FORMAT = "utf8"
 DISCONNECT_MESSAGE = "!poof"
 HEADER = 64
