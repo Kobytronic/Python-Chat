@@ -1,7 +1,7 @@
 import socket
 import threading
 
-HOST = "10.185.73.208"
+HOST = ""
 PORT = 56420
 responsive = True
 
