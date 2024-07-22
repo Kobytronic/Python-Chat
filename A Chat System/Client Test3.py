@@ -11,7 +11,7 @@ SCREENHEIGHT = 480
 SCREENWIDTH = 480
 pygame.init()
 screen = pygame.display.set_mode((SCREENWIDTH,SCREENHEIGHT))
-SERVER = "192.168.0.13"                                                         #This sets where the Server actually is and where to connect too
+SERVER = ""                                                         #This sets where the Server actually is and where to connect too
 FORMAT = "utf8"                                                                 #This is how the encoding works, and needs a consistent format
 DISCONNECT_MESSAGE = "!poof"                                                    #When Typed you get a clean disconnect
 HEADER = 64                                                                     #Is the standard length that can be sent
